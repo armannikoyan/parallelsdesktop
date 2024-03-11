@@ -1,5 +1,5 @@
 # Parallels Desktop free
-### Education or Testing purposes only.
+### Educational or Testing purposes only.
 
 <hr>
 
